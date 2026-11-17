@@ -5,7 +5,7 @@ Live site: **[thenewstiles.com](https://thenewstiles.com)**
 
 <img src="media/news-tiles-logo.svg" alt="News Tiles logo" width="160">
 
-News Tiles is a multi-screen live news command center. Watch live TV and radio from dozens of countries on one wall,
+News Tiles is a multi-screen live news command center. Watch live TV from dozens of countries on one wall,
 hear any broadcast translated into your language in real time, and follow conflicts as they unfold in the War Room.
 It is built accessibility-first: large high-contrast design, adjustable captions and full screen-reader support.
 
@@ -37,7 +37,7 @@ See **[HOW-IT-WORKS.md](HOW-IT-WORKS.md)** for the overview.
 
 ## See it working
 
-**Watch the 72-second tour: [media/news-tiles-highlights.mp4](media/news-tiles-highlights.mp4)**
+**Watch the 80-second tour: [media/news-tiles-highlights.mp4](media/news-tiles-highlights.mp4)**
 
 | Live translation (Arabic → English) | Nine channels at once |
 | --- | --- |

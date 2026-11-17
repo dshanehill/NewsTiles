@@ -2,7 +2,7 @@
 
 | File | What it shows |
 | --- | --- |
-| news-tiles-highlights.mp4 | 72-second tour: the tiles wall, live Arabic-to-English translation, the War Room and the Earth view. |
+| news-tiles-highlights.mp4 | 80-second tour, narrated: the tiles wall, live Arabic-to-English translation, the War Room and the Earth view. |
 | tiles-wall.gif | Nine live news channels side by side. |
 | live-translation.gif | Al Jazeera Arabic dubbed into English live, with English captions. |
 | war-room.gif | The War Room's live conflict map. |
